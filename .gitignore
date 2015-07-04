@@ -42,8 +42,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+jspm_packages
 jspm_packages/*/*
 jspm
 build.js
 build.js.map
 node_modules
+npm-debug.log
