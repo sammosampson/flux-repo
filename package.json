@@ -12,6 +12,7 @@
     "directories": {},
     "dependencies": {
       "fetch": "npm:whatwg-fetch@^0.9.0",
+      "flux": "npm:flux@^2.0.3",
       "react": "npm:react@^0.14.0-alpha3",
       "whatwg-fetch": "npm:whatwg-fetch@^0.9.0"
     },
